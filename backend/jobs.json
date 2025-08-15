@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Junior Software Developer",
+        "company": "TechCorp",
+        "applied": false
+    },
+    {
+        "id": 2,
+        "title": "IT Support Specialist",
+        "company": "NetSolutions",
+        "applied": false
+    },
+    {
+        "id": 3,
+        "title": "Systems Engineer Intern",
+        "company": "CloudWorks",
+        "applied": false
+    }
+]
